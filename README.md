@@ -21,7 +21,7 @@ A movies/series manager via terminal that allow you to stock them into database 
 - [USAGE](#usage)
 - [FEATURES](#features)
 
-## INSTALLATION :wrench:
+## [INSTALLATION]INSTALLATION :wrench:
 
 1. Clone the repository
 2. Install the requirements (Tools > Nuget Package Manager > Manage Nuget Package for this solution > Browse > Then search for "Microsoft.EntityFrameworkCore" / "Microsoft.EntityFrameworkCore.Sqlite")
