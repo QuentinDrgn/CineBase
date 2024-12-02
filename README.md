@@ -1,4 +1,5 @@
-
+```
+text
  _____ _____ _   _  ___________  ___   _____ _____ 
 /  __ \_   _| \ | ||  ___| ___ \/ _ \ /  ___|  ___|
 | /  \/ | | |  \| || |__ | |_/ / /_\ \\ `--.| |__  
@@ -6,8 +7,9 @@
 | \__/\_| |_| |\  || |___| |_/ / | | |/\__/ / |___ 
  \____/\___/\_| \_/\____/\____/\_| |_/\____/\____/ 
                                                    
+```
                                                    
-## CINEBASE :Popcorn:
+## CINEBASE :popcorn:
 
 A movies/series manager via terminal that allow you to stock them in a database and you also add them via CSV files.
 
